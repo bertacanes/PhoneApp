@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">PhoneApp</string>
+    <string name="app_name" translatable="false">PhoneApp</string>
     <string name="confirm">Confirmation</string>
     <string name="sure">Are you sure you want to call</string>
     <string name="call">Call</string>
     <string name="calling">You are now calling</string>
+    <string name="erase">Erase</string>
+    <string name="end_call">End call</string>
 </resources>

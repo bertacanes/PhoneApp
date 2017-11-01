@@ -24,5 +24,5 @@
         android:layout_marginBottom="40dp"
         android:layout_marginRight="50dp"
         android:onClick="EndCall"
-        android:text="End call" />
+        android:text="@string/end_call" />
 </RelativeLayout>
